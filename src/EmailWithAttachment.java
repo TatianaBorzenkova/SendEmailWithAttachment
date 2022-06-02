@@ -7,7 +7,7 @@ import javax.mail.internet.*;
 public class EmailWithAttachment {
     public static void main(String[] args){
         EmailWithAttachment solution = new EmailWithAttachment();
-        solution.sendMail("tanyushazaja@mail.ru", "2m74yin0hLk5fJ369btP", "borzenkova.tatiana@gmail.com");
+        solution.sendMail("username@mail.ru", "******************", "recipients@gmail.com");
     }
 
     public void sendMail(final String username, final String password, final String recipients) {

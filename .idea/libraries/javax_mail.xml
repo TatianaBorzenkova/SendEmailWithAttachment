@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javax.mail">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../sendEmail/lib/javax.mail.jar!/" />
+      <root url="file://$PROJECT_DIR$/../sendEmail/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../sendEmail/lib" recursive="false" />
+  </library>
+</component>
